@@ -3,10 +3,10 @@
 ## Cálculos de Aproveitamento Hidrelétrico
 
 ### ENERGIA HIDRELÉTRICA MÉDIA DISPONÍVEL
-![eq. 1.1](https://drive.google.com/open?id=10wvijpPgpwTKNkx7DwbaqOh1n9rykHhw)
+![](https://i.imgur.com/gPjiE7S.png)
 
 ### SALTO ENERGÉTICO/TRABALHO ESPECÍFICO
-![eq. 1.2](https://drive.google.com/file/d/1R-jkBtbCq_-1aXMDlm-_j_ox1XKZLs3n/view?usp=sharing)
+![](https://i.imgur.com/ooOwgM9.png)
 
 ### QUEDA DE APROVEITAMENTO
 

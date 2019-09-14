@@ -1,5 +1,31 @@
 # Aproveitamento Hidrelétrico
 
+## UHE Serra da Mesa
+
+![](https://i.imgur.com/LoajmQf.jpg)
+Figura 1: UHE Serra da Mesa (Fonte: Elaboração própria)
+
+A UHE Serra da Mesa fica localizada no Rio Tocantins, próxima ao município de Minaçu-GO. A usina possui 1.275 MW de capacidade instalada divididos em 3 máquinas.
+O reservatório é considerado, em volume de água, o maior do país, com capacidade de armazenamento de 54.408 hm³. Seu volume mínimo para operação é de 11.150 hm³. A área alagada é de 1.784 km². E sua altura  mínima de queda é de 83,3 m. 
+Esta UHE foi escolhida para que se faça uma avaliação acerca do projeto e averiguar as razões pelas quais o reservatório desta usina manteve-se, nos últimos anos, abaixo da metade de sua capacidade máxima.
+
+UHE | Serra da Mesa
+-----|---------------
+Proprietário | Furnas Centrais Elétricas S.A
+Municípios | Colinas do Sul-TO e Minaçu-GO
+Rio | Tocantins
+Potência (MW) | 1.275
+Área inundada máxima (m²) | 1.784
+Volume máximo (hm³) | 54.400
+Tabela 1: Dados da UHE Serra da Mesa disponíveis no shapefile disponível no Sigel/ANEEL
+
+## Elaboração de Mapas
+Para a elaboração dos mapas foi utilizada a ferramente QGIS 3.8.2 e a base de dados OpenStreetMap;
+
+No software QGIS foi carregado o mapa OpenStreetMap, em seguida foi identificada a área pertinente a Usina Hidrelétrica Serra da Mesa; para a construção do mapa foi utilizada a ferramenta de impressão, nela foram definidos os parâmetros da imagem, bem como adicionada a escala e orientação do mapa.
+
+Para aferição da área da usina foi verificado na tabela de atributos pertencente ao arquivo shapefile, fornecida no Sigel, portal ArcGis da ANEEL. Nela estão disponíveis dados da usina que foram detalhados na ÁREA DE CAPTAÇÃO DA USINA HIDRELÉTRICA SERRA DA MESA
+
 ## Cálculos de Aproveitamento Hidrelétrico
 
 ### ENERGIA HIDRELÉTRICA MÉDIA DISPONÍVEL
@@ -27,7 +53,14 @@ Logo a UHE Serra da Mesa é considerada de média queda, considerando perdas de 
 ### CÁLCULO DE VAZÃO MÉDIA DE LONGO TERMO
 
 Para definir a vazão média de longo termo, o grupo baseou-se em dados obtidos no sistema hidroweb da Agência Nacional de Águas - ANA, e em boletins do Operador Nacional do Sistema Elétrico. Para tanto, foram usadas estações de medição à montante do reservatório da UHE. Para os dados diários entre 2014 e 2019, a base consultada foi o Boletim Diário da Operação (BDO) do ONS. Deste boletim, foi utilizada a vazão afluente da UHE.
-A vazão média foi calculada utilizando a ferramenta de calcular média do excel, foram considerados 2.265 dados diários de vazão, fornecendo o resultado de 487,861 m³/s
+A vazão média foi calculada utilizando a ferramenta de calcular média do excel, foram considerados 2.265 dados diários de vazão, fornecendo o resultado de 487,861 m³/s.
+
+### ÁREA DE CAPTAÇÃO DA USINA HIDRELÉTRICA SERRA DA MESA
+
+![](https://i.imgur.com/fxPYfrM.jpg)
+Figura 2: Área de captação da UHE Serra da Mesa
+
+A área inundada da UHE Serra da Mesa é de 1.784 m² disponível na tabela de atributos da shapefile.
+
 
 Todos contribuíram para esta entrega.
-Repositório para a turma de 2019/2

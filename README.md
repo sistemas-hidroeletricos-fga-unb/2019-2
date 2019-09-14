@@ -27,7 +27,7 @@ Logo a UHE Serra da Mesa é considerada de média queda, considerando perdas de 
 ### CÁLCULO DE VAZÃO MÉDIA DE LONGO TERMO
 
 Para definir a vazão média de longo termo, o grupo baseou-se em dados obtidos no sistema hidroweb da Agência Nacional de Águas - ANA, e em boletins do Operador Nacional do Sistema Elétrico. Para tanto, foram usadas estações de medição à montante do reservatório da UHE. Para os dados diários entre 2014 e 2019, a base consultada foi o Boletim Diário da Operação (BDO) do ONS. Deste boletim, foi utilizada a vazão afluente da UHE.
-A vazão média foi calculada utilizando a ferramenta de calcular média do excel, fornecendo o resultado de 487,861 m³/s
+A vazão média foi calculada utilizando a ferramenta de calcular média do excel, foram considerados 2.265 dados diários de vazão, fornecendo o resultado de 487,861 m³/s
 
 Todos contribuíram para esta entrega.
 Repositório para a turma de 2019/2

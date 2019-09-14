@@ -17,6 +17,7 @@ Rio | Tocantins
 Potência (MW) | 1.275
 Área inundada máxima (m²) | 1.784
 Volume máximo (hm³) | 54.400
+
 Tabela 1: Dados da UHE Serra da Mesa disponíveis no shapefile disponível no Sigel/ANEEL
 
 ## Elaboração de Mapas
@@ -46,6 +47,8 @@ Classificação | Faixa de Altura
 Baixa Queda   | até 50 m
 Média Queda   | 50 a 250 m
 Alta Queda    | acima de 250 m
+
+Tabela 2: Classificação da queda da usina de acordo com as faixas de altura
 
 
 Logo a UHE Serra da Mesa é considerada de média queda, considerando perdas de 20\%.

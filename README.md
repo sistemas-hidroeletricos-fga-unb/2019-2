@@ -65,5 +65,8 @@ Figura 2: Área de captação da UHE Serra da Mesa
 
 A área inundada da UHE Serra da Mesa é de 1.784 m² disponível na tabela de atributos da shapefile.
 
+### ESCOLHA DO TIPO DE CENTRAL E DO ARRANJO UTILIZADO
+
+Em virtude de ser um projeto existente, serão mantidos o tipo de central e o arranjo utilizado. Será considerada uma central de represamento que, conforme notas de aula, cria uma barragem no rio e a ligação entre a barragem e a casa de máquinas é feita através de um conduto forçado. 
 
 Todos contribuíram para esta entrega.

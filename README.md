@@ -76,7 +76,6 @@ Todos contribuíram para esta entrega.
 A potência instalada é potência que a usina tem a obrigação de fornecer, de acordo com os dados do SIGEL/Aneel a potência instalada da Usina Serra da Mesa é de 1.275 MW. Realizamos o cálculo da potência instalada, supondo os rendimentos, afim de verificar se a potência cálculada é próxima aquela que SIGEL fornece. 
 
 Considerando o redimento da turbina 0.9, o redimento do gerador 0.98 e a vazão sendo a maior vazão histórica, que foi de 3.603 m³/s a potência instalada da usina seria de 2.077,47 MW.
-![](C:\Users\Amanda\Documents\Capturar.PNG)
 
 Já considerando a vazão média, que é de 487,861 m³/s a potência instalada da usina é de 281,2 MW. 
 

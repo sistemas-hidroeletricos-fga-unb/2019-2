@@ -91,7 +91,17 @@ Figura 3: Diagrama de Rippl da Usina Serra da Mesa entre os anos de 2014 a 2018
 
  Para elaboração desta curva foi utilizada a série diária de vazões, portanto, foi multiplicada pelo tempo em segundos de um dia (24x3600).
 
+### FLUVIOGRAMA
+Utilizando os dados de vazão média diária entre fevereiro de 2014 e setembro de 2019, foi possível traçar o gráfico que mostra o comportamento das vazões do rio.
 
+Figura 4: Fluviograma da Usina Serra da Mesa entre os anos de 2014 a 2018
+
+### CURVA DE DURAÇÃO DE VAZÕES
+Para elaborar o gráfico da curva de duração foram seguidas as instruções das notas de aula, utilizando as vazões médias mensais e verificando quantas vezes determinada vazão foi equalizada ou superada e, logo após, dividindo esse número pelo total de vazões no histórico.
+
+
+
+Figura 5: Curva de duração da Usina Serra da Mesa entre os anos de 2014 a 2018
 
 
 

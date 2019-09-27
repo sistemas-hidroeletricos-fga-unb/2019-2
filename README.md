@@ -79,6 +79,18 @@ Considerando o redimento da turbina 0.9, o redimento do gerador 0.98 e a vazão 
 
 Já considerando a vazão média, que é de 487,861 m³/s a potência instalada da usina é de 281,2 MW. 
 
+### DIAGRAMA DE MASSAS DE RIPPL
+Com o uso do diagrama de massas é possível prever a confiabilidade de um reservatório hídrico a partir do volume máximo acumulado em um reservatório obtido a partir da série histórica de vazões, podendo-se estimar o volume de água no reservatório para o ano seguinte.
+
+Se traçarmos retas tangentes aos pontos de máximo e mínimo da curva de massas, podemos obter o nível de segurança de um reservatório apresentado pela diferença entre a tangente do ponto de mínimo para a do ponto de máximo.
+
+A partir da curva obtida é possível concluir que o reservatório da UHE Serra da Mesa é muito confiável, uma vez que seus pontos de mínimos e máximo são muito próximos, principalmente levando em consideração a ordem de grandeza dos dados (bilhões de litros).
+
+![](https://i.imgur.com/PtUnivc.png)
+Figura 3: Diagrama de Rippl da Usina Serra da Mesa entre os anos de 2014 a 2018
+
+ Para elaboração desta curva foi utilizada a série diária de vazões, portanto, foi multiplicada pelo tempo em segundos de um dia (24x3600).
+
 
 
 

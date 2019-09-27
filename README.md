@@ -1,6 +1,6 @@
-# Aproveitamento Hidrelétrico
+# Projeto Hidroelétrico UHE Serra da Mesa
 
-## UHE Serra da Mesa
+## Aproveitamento Hidrelétrico
 
 ![](https://i.imgur.com/LoajmQf.jpg)
 Figura 1: UHE Serra da Mesa (Fonte: Elaboração própria)
@@ -20,22 +20,22 @@ Volume máximo (hm³) | 54.400
 
 Tabela 1: Dados da UHE Serra da Mesa disponíveis no shapefile disponível no Sigel/ANEEL
 
-## Elaboração de Mapas
+### Elaboração de Mapas
 Para a elaboração dos mapas foi utilizada a ferramente QGIS 3.8.2 e a base de dados OpenStreetMap;
 
 No software QGIS foi carregado o mapa OpenStreetMap, em seguida foi identificada a área pertinente a Usina Hidrelétrica Serra da Mesa; para a construção do mapa foi utilizada a ferramenta de impressão, nela foram definidos os parâmetros da imagem, bem como adicionada a escala e orientação do mapa.
 
 Para aferição da área da usina foi verificado na tabela de atributos pertencente ao arquivo shapefile, fornecida no Sigel, portal ArcGis da ANEEL, nela estão disponíveis dados da usina que foram detalhados na ÁREA DE CAPTAÇÃO DA USINA HIDRELÉTRICA SERRA DA MESA.
 
-## Cálculos de Aproveitamento Hidrelétrico
+### Cálculos de Aproveitamento Hidrelétrico
 
-### ENERGIA HIDRELÉTRICA MÉDIA DISPONÍVEL
+#### ENERGIA HIDRELÉTRICA MÉDIA DISPONÍVEL
 ![](https://i.imgur.com/gPjiE7S.png)
 
-### SALTO ENERGÉTICO/TRABALHO ESPECÍFICO
+#### SALTO ENERGÉTICO/TRABALHO ESPECÍFICO
 ![](https://i.imgur.com/ooOwgM9.png)
 
-### QUEDA DE APROVEITAMENTO
+#### QUEDA DE APROVEITAMENTO
 
 Altura líquida: 0,8.83,3 (20\% de perda) = 66,64 m
 
@@ -53,31 +53,35 @@ Tabela 2: Classificação da queda da usina de acordo com as faixas de altura
 
 Logo a UHE Serra da Mesa é considerada de média queda, considerando perdas de 20\%.
 
-### CÁLCULO DE VAZÃO MÉDIA DE LONGO TERMO
+#### CÁLCULO DE VAZÃO MÉDIA DE LONGO TERMO
 
 Para definir a vazão média de longo termo, o grupo baseou-se em dados obtidos no sistema hidroweb da Agência Nacional de Águas - ANA, e em boletins do Operador Nacional do Sistema Elétrico. Para tanto, foram usadas estações de medição à montante do reservatório da UHE. Para os dados diários entre 2014 e 2019, a base consultada foi o Boletim Diário da Operação (BDO) do ONS. Deste boletim, foi utilizada a vazão afluente da UHE.
 A vazão média foi calculada utilizando a ferramenta de calcular média do excel, foram considerados 2.265 dados diários de vazão, fornecendo o resultado de 487,861 m³/s.
 
-### ÁREA DE CAPTAÇÃO DA USINA HIDRELÉTRICA SERRA DA MESA
+#### ÁREA DE CAPTAÇÃO DA USINA HIDRELÉTRICA SERRA DA MESA
 
 ![](https://i.imgur.com/fxPYfrM.jpg)
 Figura 2: Área de captação da UHE Serra da Mesa
 
 A área inundada da UHE Serra da Mesa é de 1.784 m² disponível na tabela de atributos da shapefile.
 
-### ESCOLHA DO TIPO DE CENTRAL E DO ARRANJO UTILIZADO
+#### ESCOLHA DO TIPO DE CENTRAL E DO ARRANJO UTILIZADO
 
 Em virtude de ser um projeto existente, serão mantidos o tipo de central e o arranjo utilizado. Será considerada uma central de represamento que, conforme notas de aula, cria uma barragem no rio e a ligação entre a barragem e a casa de máquinas é feita através de um conduto forçado. 
 
 Todos contribuíram para esta entrega.
 
-### ESTIMATIVA DA POTÊNCIA INSTALADA
+#### ESTIMATIVA DA POTÊNCIA INSTALADA
 
 Define-se potência instalada como a potência registrada nas placas de identificação do gerador, de acordo com os dados do SIGEL/Aneel a potência instalada da Usina Serra da Mesa é de 1.275 MW. Realizamos o cálculo da potência instalada, supondo os rendimentos, afim de verificar se a potência cálculada é próxima aquela que SIGEL fornece. 
 
 Considerando o redimento da turbina 0.9, o redimento do gerador 0.98 e a vazão sendo a maior vazão histórica, que foi de 3.603 m³/s a potência instalada da usina seria de 2.077,47 MW.
 
 Já considerando a vazão média, que é de 487,861 m³/s a potência instalada da usina é de 281,2 MW. 
+
+## PROJETO HIDROLÓGICO
+
+
 
 ### DIAGRAMA DE MASSAS DE RIPPL
 Com o uso do diagrama de massas é possível prever a confiabilidade de um reservatório hídrico a partir do volume máximo acumulado em um reservatório obtido a partir da série histórica de vazões, podendo-se estimar o volume de água no reservatório para o ano seguinte.
@@ -94,13 +98,14 @@ Figura 3: Diagrama de Rippl da Usina Serra da Mesa entre os anos de 2014 a 2018
 ### FLUVIOGRAMA
 Utilizando os dados de vazão média diária entre fevereiro de 2014 e setembro de 2019, foi possível traçar o gráfico que mostra o comportamento das vazões do rio.
 
+![](https://i.imgur.com/6BPCnKq.png)
 Figura 4: Fluviograma da Usina Serra da Mesa entre os anos de 2014 a 2018
 
 ### CURVA DE DURAÇÃO DE VAZÕES
 Para elaborar o gráfico da curva de duração foram seguidas as instruções das notas de aula, utilizando as vazões médias mensais e verificando quantas vezes determinada vazão foi equalizada ou superada e, logo após, dividindo esse número pelo total de vazões no histórico.
 
 
-
+![](https://i.imgur.com/w0l2TpJ.png)
 Figura 5: Curva de duração da Usina Serra da Mesa entre os anos de 2014 a 2018
 
 

@@ -113,4 +113,3 @@ Como descrito nas notas de aula, para se obter a curva de duração de potência
 
 ![](https://drive.google.com/file/d/1kGsTGCrq_2a6rRcbmdbZHjBrq6X7tmq1/view)
 Figura 6: Curva de duração de potência da Usina Serra da Mesa entre os anos de 2018 a 2019
-

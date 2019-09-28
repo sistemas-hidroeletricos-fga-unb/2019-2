@@ -112,4 +112,5 @@ Figura 5: Curva de duração da Usina Serra da Mesa entre os anos de 2014 a 2018
 Como descrito nas notas de aula, para se obter a curva de duração de potências multiplicaram-se os valores do eixo das ordenadas da curva acima pela queda de aproveitamento definida anteriormente (66,64 metros), pela aceleração da gravidade (9,98m/s²) e pelo rendimento considerado de 90%. 
 
 ![](https://i.imgur.com/Jtdh9s7.png)
+
 Figura 6: Curva de duração de potência da Usina Serra da Mesa entre os anos de 2018 a 2019

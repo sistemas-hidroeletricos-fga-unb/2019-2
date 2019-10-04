@@ -120,3 +120,7 @@ Como descrito nas notas de aula, para se obter a curva de duração de potência
 ![](https://i.imgur.com/Jtdh9s7.png)
 
 Figura 6: Curva de duração de potência da Usina Serra da Mesa entre os anos de 2018 a 2019
+
+### VALORES EXTREMOS
+Os valores extremos de vazões são analisados de forma semelhante, sendo os dados totais de onde serão extraídos que diferenciam o cálculo dos mesmos. Para definição das vazãos máximas utilizam-se dados de ano hidrológico enquanto para vazões mínimas recorre-se a dados do ano civil. 
+Para este tópico foi considerado ano hidrológico de 01 de outubro de 2017 a 01 de outubro de 2018 e o ano civil de 01 de janeiro de 2018 a 31 de dezembro de 2018. Assim, o valor extremo máximo de vazão nesse período foi 4359m³/s enquanto que o valor extremo mínimo foi de 3m³/s.

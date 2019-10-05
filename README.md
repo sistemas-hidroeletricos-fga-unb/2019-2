@@ -121,6 +121,31 @@ Como descrito nas notas de aula, para se obter a curva de duração de potência
 
 Figura 6: Curva de duração de potência da Usina Serra da Mesa entre os anos de 2018 a 2019
 
+### PERÍODO CRÍTICO
+O período crítico de um reservatório compreende os meses que estão entre os níveis máximo e mínimo do ano civil, não incluindo o mês de nível máximo ou de mínimo. O período crítico da UHE Serra da Mesa são os meses de março a agosto, como pode ser visto no gráfico abaixo, não foram considerados os anos de 2014 e 2019 pelos dados do ano civil estarem incompletos.
+
+![](https://i.imgur.com/LkUzVbr.png)
+
+Figura 7: Período crítico da UHE Serra da Mesa
+
+### PERÍODO SECO E PERÍODO ÚMIDO
+O período seco é dado pelos meses do ano hidrológico correspondentes ao período crítico e o período úmido são os meses restantes. O ano hidrológico o estado de Goiás, onde fica localizada a UHE Serra da Mesa, inicia-se em outubro de um ano e termina em setembro do ano seguinte. O período seco no estado de Goiás inicia em abril perdurando até a primeira quinzena de outubro, enquanto o período seco compreende a segunda quinzena de outubro até março do ano seguinte. No gráfico abaixo pode-se observar os períodos seco e úmido do reservatório da UHE Serra da Mesa, sendo que o mês de outubro foi incluído integralmente no período úmido para facilitar a visualização.
+
+![](https://i.imgur.com/irgwYAL.png)
+
+Figura 8: Períodos seco e úmido no ano hidrológico da UHE Serra da Mesa
+
+Não há sobreposição completa entre os períodos úmido e seco com o período crítico pois não há correspondência perfeita entre os índices de precipitação, que definem o ano hidrológico, com a vazão do rio. Considerando que o rio Tocantins abrange vários estados, esta pode ser uma das razões por não ocorrer da forma ideal.
+
+![](https://i.imgur.com/pnA6bXv.png)
+
+Figura 9: Sobreposição do período crítico para as estações seca e úmida no ano hidrológico
+
 ### VALORES EXTREMOS
-Os valores extremos de vazões são analisados de forma semelhante, sendo os dados totais de onde serão extraídos que diferenciam o cálculo dos mesmos. Para definição das vazãos máximas utilizam-se dados de ano hidrológico enquanto para vazões mínimas recorre-se a dados do ano civil. 
-Para este tópico foi considerado ano hidrológico de 01 de outubro de 2017 a 01 de outubro de 2018 e o ano civil de 01 de janeiro de 2018 a 31 de dezembro de 2018. Assim, o valor extremo máximo de vazão nesse período foi 4359m³/s enquanto que o valor extremo mínimo foi de 3m³/s.
+Os valores extremos de vazões são analisados de forma semelhante, sendo os dados totais de onde serão extraídos que diferenciam o cálculo dos mesmos. Para definição das vazãos máximas utilizam-se dados de ano hidrológico enquanto para vazões mínimas recorre-se a dados do ano civil. No gráfico abaixo é possível observar os valores máximos e mínimos para cada ano hidrológico.
+
+![](https://i.imgur.com/S9GuVq6.png)
+
+Figura 10: Valores de máximo e mínimo para cada ano hidrológico
+
+Enquanto o mês de setembro sempre foi correspondente ao valor de mínimo de todos os anos hidrológicos, os valores de máximo variam entre os meses de fevereiro, março e abril, justificando ainda a dificuldade na determinação do período crítico e sua correspondência exata ao período seco.

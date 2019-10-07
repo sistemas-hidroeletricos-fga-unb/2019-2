@@ -79,7 +79,7 @@ Define-se potência instalada como a potência registrada nas placas de identifi
 
 ![](https://i.imgur.com/B6NjcXF.png)
 
-Considerando o redimento da turbina 0.9, o redimento do gerador 0.98 e a vazão sendo a maior vazão histórica, que foi de 3.603 m³/s a potência instalada da usina seria de 2.511,66 MW.
+Considerando o redimento da turbina 0.9, o redimento do gerador 0.98 e a vazão sendo a maior vazão histórica, que foi de 4.359 m³/s a potência instalada da usina seria de 2.511,66 MW.
 
 ![](https://i.imgur.com/WjO2pgi.png)
 
@@ -149,3 +149,13 @@ Os valores extremos de vazões são analisados de forma semelhante, sendo os dad
 Figura 10: Valores de máximo e mínimo para cada ano hidrológico
 
 Enquanto o mês de setembro sempre foi correspondente ao valor de mínimo de todos os anos hidrológicos, os valores de máximo variam entre os meses de fevereiro, março e abril, justificando ainda a dificuldade na determinação do período crítico e sua correspondência exata ao período seco.
+
+### ESTIMATIVA DA VAZÃO DE PROJETO 
+
+De acordo com a Aneel a energia firme de uma usina hidrelétrica corresponde à máxima produção contínua de energia que pode ser obtida, supondo a ocorrência da seqüência mais seca registrada no histórico de vazões do rio onde ela está instalada. Como os dados diários de vazões do ano de 2014 até 2019 da Usina Serra da Mesa variam muito, estimou-se que a vazão firme é de 100 m³/s, pois é uma faixa de vazão baixa e que ocorre considerávelmente.
+
+Como visto anteriormente a vazão média é 427,861 m³/s então essa será considerada nossa vazão necessária, aplicando então a seguinte metodologia:
+
+![](https://i.imgur.com/5a2VhTz.png)
+
+Com isso, a vazão do projeto deve ser menor ou igual a vazão média de longo tempo, que de acordo com a curva de vazões é de 400,17 m³/s.

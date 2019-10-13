@@ -159,3 +159,18 @@ Como visto anteriormente a vazão média é 427,861 m³/s então essa será cons
 ![](https://i.imgur.com/5a2VhTz.png)
 
 Com isso, a vazão do projeto deve ser menor ou igual a vazão média de longo tempo, que de acordo com a curva de vazões é de 400,17 m³/s.
+
+### REGIONALIZAÇÃO DE VAZÃO
+
+Para o cálculo da vazão regionalizada utilizou-se o método de Conti-Varlet de acordo com o livro texto utilizado no curso. Abaixo é apresentada a adaptação do gráfico da curva de Rippl para a utilização do método mencionado.
+
+![](https://imgur.com/A91vXKj)
+
+A partir da linha segmentada em azul foram feitos os cálculos das vazões regionalizadas parciais utilizando a seguinte fórmula:
+
+![](https://imgur.com/jSDsxu4)
+
+Onde Qr é a vazão regionalizada. 
+Assim, tem-se que a vazão regionalizada total é:
+
+![](https://imgur.com/NPNZXc3)

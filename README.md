@@ -174,3 +174,7 @@ Onde Qr é a vazão regionalizada.
 Assim, tem-se que a vazão regionalizada total é:
 
 ![](https://imgur.com/NPNZXc3.png)
+
+Visto que as vazões da Usina Serra da Mesa variam excessivamente durante os anos, se torna necessária então a construção de um reservatório para que se possa reter o excesso d'água dos períodos de grandes vazões para ser utilizado nas épocas de seca. A vazão firme da usina é de 100 m³/s, contudo de acordo com os dados diários, o menor valor chegou a 2 m³/s. 
+
+A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firma, visto isso, há necessidade de regularização de vazão em períodos de seca.

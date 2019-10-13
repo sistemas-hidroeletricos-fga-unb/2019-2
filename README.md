@@ -168,9 +168,9 @@ Para o cálculo da vazão regionalizada utilizou-se o método de Conti-Varlet de
 
 A partir da linha segmentada em azul foram feitos os cálculos das vazões regionalizadas parciais utilizando a seguinte fórmula:
 
-![](https://imgur.com/jSDsxu4)
+![](https://imgur.com/jSDsxu4.png)
 
 Onde Qr é a vazão regionalizada. 
 Assim, tem-se que a vazão regionalizada total é:
 
-![](https://imgur.com/NPNZXc3)
+![](https://imgur.com/NPNZXc3.png)

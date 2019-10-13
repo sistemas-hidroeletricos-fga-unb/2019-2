@@ -164,7 +164,7 @@ Com isso, a vazão do projeto deve ser menor ou igual a vazão média de longo t
 
 Para o cálculo da vazão regionalizada utilizou-se o método de Conti-Varlet de acordo com o livro texto utilizado no curso. Abaixo é apresentada a adaptação do gráfico da curva de Rippl para a utilização do método mencionado.
 
-![](https://imgur.com/gallery/A91vXKj)
+![](https://imgur.com/A91vXKj.png)
 
 A partir da linha segmentada em azul foram feitos os cálculos das vazões regionalizadas parciais utilizando a seguinte fórmula:
 

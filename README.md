@@ -178,3 +178,27 @@ Assim, tem-se que a vazão regionalizada total é:
 Visto que as vazões da Usina Serra da Mesa variam excessivamente durante os anos, com isso torna necessária então a construção de um reservatório para que se possa reter o excesso d'água dos períodos de grandes vazões para ser utilizado nas épocas de seca. A vazão firme da usina é de 100 m³/s, contudo de acordo com os dados diários, o menor valor chegou a 2 m³/s. 
 
 A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto isso, há necessidade de regularização de vazão em períodos de seca. O método utilizado é possível verificar as vazões que serão regularizadas bem como o tempo de duração e verificou-se que o total de vazão regularizada é alto comparado com a vazão de projeto.
+
+## PROJETO DA TURBINA
+
+### VAZÃO, PRESSÃO E DEMAIS CONDIÇÕES DE OPERAÇÃO DA TURBINA
+
+Foram feitas medições de vazão e altura de queda na bancada hidrelétrica do laboratório de termofluidos.
+Para cálculo da vazão referente ao vertedouro analisado foi utilizada sua fórmula empirica, mostrada abaixo:
+
+![](https://imgur.com/5kT3kJW.png)
+
+Sendo 'h' a variação de altura da margem superior da coluna d'água formada, até o ponto mais baixo da saida do vertedouro em metros (0,12m). Assim, a vazão no vertedouro é:
+
+![](https://imgur.com/eQUYzyl.png)
+
+Tendo uma queda de 2 MCA foi calculada a potência da bancada da seguinte forma:
+
+![](https://imgur.com/wdPBh1S.png)
+
+Posteriormente reduziu-se a vazão sendo 'h' proporcionalmente diminuido para 11,5cm e repetiu-se os passos anteriores
+
+![](https://imgur.com/Xn9RZ9J.png)
+![](https://imgur.com/utwA2Y1.png)
+
+Adiante, foi examinado o comportamento da central quando conectada à lâmpadas incandescentes e assim variou-se a rotação da máquina. notou-se que a pot~encia de iluminação das mesmas varia de acordo com a variação da rotação.

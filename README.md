@@ -186,7 +186,7 @@ A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto 
 Foram feitas medições de vazão e altura de queda na bancada hidrelétrica do laboratório de termofluidos.
 Para cálculo da vazão referente ao vertedouro analisado foi utilizada sua fórmula empirica, mostrada abaixo:
 
-![](https://imgur.com/OL0Ma0H.png)
+![](https://imgur.com/GKMAktf.png)
 
 Sendo 'h' a variação de altura da margem superior da coluna d'água formada, até o ponto mais baixo da saida do vertedouro em metros (0,12m). Assim, a vazão no vertedouro é:
 
@@ -201,4 +201,4 @@ Posteriormente reduziu-se a vazão sendo 'h' proporcionalmente diminuido para 11
 ![](https://imgur.com/Xn9RZ9J.png)
 ![](https://imgur.com/utwA2Y1.png)
 
-Adiante, foi examinado o comportamento da central quando conectada à lâmpadas incandescentes e assim variou-se a rotação da máquina. notou-se que a pot~encia de iluminação das mesmas varia de acordo com a variação da rotação.
+Adiante, foi examinado o comportamento da central quando conectada à lâmpadas incandescentes e assim variou-se a rotação da máquina. Notou-se que a potência de iluminação das mesmas varia de acordo com a variação da rotação.

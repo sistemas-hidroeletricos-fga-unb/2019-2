@@ -181,10 +181,10 @@ A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto 
 
 ## PROJETO DA TURBINA
 
-### VAZÃO, PRESSÃO E DEMAIS CONDIÇÕES DE OPERAÇÃO DA TURBINA
+### CONDIÇÕES DE OPERAÇÃO DA TURBINA E ESPECIFICAÇÃO DA POTÊNCIA MECÂNICA DA TURBINA
 
 Foram feitas medições de vazão e altura de queda na bancada hidrelétrica do laboratório de termofluidos.
-Para cálculo da vazão referente ao vertedouro analisado foi utilizada sua fórmula empirica, mostrada abaixo:
+Para cálculo da vazão referente ao vertedouro analisado foi utilizada sua fórmula empírica, mostrada abaixo:
 
 ![](https://imgur.com/GKMAktf.png)
 
@@ -202,3 +202,22 @@ Posteriormente reduziu-se a vazão sendo 'h' proporcionalmente diminuido para 11
 ![](https://imgur.com/utwA2Y1.png)
 
 Adiante, foi examinado o comportamento da central quando conectada à lâmpadas incandescentes e assim variou-se a rotação da máquina. Notou-se que a potência de iluminação das mesmas varia de acordo com a variação da rotação.
+
+Calculou-se a potência mecânica da turbina novamente, para valores de “h” igual a 14cm e queda (“H”) de 1,75mca. Utilizando a formulação descrita acima, a vazão e a potência do novo experimento são iguais a 0,01026 m³/s e 176,3 W respectivamente.
+
+Foi feito também o cálculo  da potência elétrica do sistema, utilizando os mesmos dados de vazão e altura, resultando em:
+
+![](https://imgur.com/34RKruf.png)
+
+Onde, U= tensão (110V) e R= resistência da lâmpada (269 ohm). Sendo assim,
+
+![](https://imgur.com/tMjJXwg.png)
+
+Pode-se notar que a potência elétrica é muito menor que a potência mecânica, isso se dá devido às perdas de rendimento ao longo do processo. De acordo com Stephen J. Chapman, "as perdas elétricas se dão por aquecimento resistivo que ocorre nos enrolamentos do estator (armadura) e do rotor (campo) da máquina. As perdas mecânicas em uma máquina são as perdas associadas aos efeitos mecânicos. Há dois tipos básicos de perdas mecânicas: atrito e ventilação. Perdas por atrito são causadas pelo atrito dos rolamentos da máquina, ao passo que as perdas por ventilação são causadas pelo atrito entre as partes móveis da máquina e o ar contido dentro do motor. Essas perdas variam com o cubo da velocidade de rotação da máquina."
+
+### LEVANTAMENTO DA POTÊNCIA TRANSMITIDA PARA O CENTRO DE CARGA
+
+A potência elétrica do sistema foi determinada a partir da fórmula acima descrita, envolvendo a relação de tensão e resistência da lâmpada. Assim, foram feitos vários testes variando a tensão, que podem ser visualizadas abaixo:
+
+![](https://imgur.com/0F6khDL.png)
+

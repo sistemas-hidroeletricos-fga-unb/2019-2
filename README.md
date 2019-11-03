@@ -205,7 +205,7 @@ Adiante, foi examinado o comportamento da central quando conectada à lâmpadas 
 
 Calculou-se a potência mecânica da turbina novamente, para valores de “h” igual a 14cm e queda (“H”) de 1,75mca. Utilizando a formulação descrita acima, a vazão e a potência do novo experimento são iguais a 0,01026 m³/s e 176,3 W respectivamente.
 
-Foi feito também o cálculo  da potência elétrica do sistema, utilizando os mesmos dados de vazão e altura, resultando em:
+Foi feito também o cálculo  da potência elétrica do sistema, utilizando os mesmos dados de vazão e altura:
 
 ![](https://imgur.com/34RKruf.png)
 

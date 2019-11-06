@@ -231,6 +231,7 @@ Foi analisado o fator de capacidade (FC) da usina relacionada à bancada hidrel�
 ![](https://imgur.com/SI600ag.png)
 
 Onde, a potência instalada (Poti) é constante para a usina e a potência gerada (Potg) varia de acordo com a variação de tensão e “R” é a resistência da lâmpada. 
+
 Para carga máxima (3 lâmpadas):
 
 ![](https://imgur.com/oG5JKpx.png)

@@ -221,3 +221,55 @@ A potência elétrica do sistema foi determinada a partir da fórmula acima desc
 
 ![](https://imgur.com/0F6khDL.png)
 
+### ESTIMATIVA DO FATOR DE CAPACIDADE DA TURBINA
+Foi analisado o fator de capacidade (FC) da usina relacionada à bancada hidrelétrica do laboratório de termofluidos de acordo com a formulação abaixo. Para tal iniciou-se as aferições com uma tensão de 220 Volts com as três lâmpadas, tendo assim a carga máxima disponível conectada ao sistema.
+
+![](https://imgur.com/o1A0v0c.png)
+
+![](https://imgur.com/bTw36N0.png)
+
+![](https://imgur.com/SI600ag.png)
+
+Onde, a potência instalada (Poti) é constante para a usina e a potência gerada (Potg) varia de acordo com a variação de tensão e “R” é a resistência da lâmpada. 
+Para carga máxima (3 lâmpadas):
+
+![](https://imgur.com/oG5JKpx.png)
+
+![](https://imgur.com/qPsK7Uf.png)
+
+Após, foram retiradas lâmpadas de forma a diminuir a carga, assim o fluxo de energia também deve ser controlado pois acontece um aumento de potência devido à elevação da tensão. Pôde-se perceber, de acordo com os resultados mostrados abaixo, o aumento do fator de capacidade:
+
+Para 2 lâmpadas:
+
+![](https://imgur.com/fDQfPYw.png)
+
+![](https://imgur.com/Y0rGyF1.png)
+
+Para 1 lâmpada: 
+
+![](https://imgur.com/wUvskEk.png)
+
+![](https://imgur.com/Ti4qCf2.png)
+
+Foram feitas novas medições com tensão igual a 180V, 200V e 310V, para fins de comparação.
+
+Para 1 lâmpada com tensão igual a 180V:
+
+![](https://imgur.com/dSAADdt.png)
+
+![](https://imgur.com/cLmaih9.png)
+
+Para 2 lâmpadas com tensão em 220V:
+
+![](https://imgur.com/T03v7aW.png)
+
+![](https://imgur.com/YcVc2o6.png)
+
+Para 1 lâmpada com tensão em 310V:
+
+![](https://imgur.com/PE6Zmqk.png)
+
+![](https://imgur.com/RYw4MNM.png)
+
+O fator de capacidade acima de 100% simboliza que a carga está muito baixa e o controle do fluxo de energia se faz necessário, sendo assim a potência instalada não está sendo plenamente utilizada. 
+Dessa forma conclui-se que o fator de capacidade não é um bom indicador para a geração de energia.

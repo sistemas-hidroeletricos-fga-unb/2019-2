@@ -179,6 +179,34 @@ Visto que as vazões da Usina Serra da Mesa variam excessivamente durante os ano
 
 A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto isso, há necessidade de regularização de vazão em períodos de seca. O método utilizado é possível verificar as vazões que serão regularizadas bem como o tempo de duração e verificou-se que o total de vazão regularizada é alto comparado com a vazão de projeto.
 
+##PROJETO DO CONDUTO
+### FORMA GEOMÉTRICA DE SEÇÃO PARA O CANAL EM QUESTÃO, DIÂMETRO HIDRÁULICO DA SEÇÃO, VELOCIDADE DA ÁGUA NO CANAL, VAZÃO DE ÁGUA NO CANAL
+
+A forma geométrica do canal é semi circular, como na figura abaixo.
+
+![](https://imgur.com/BKguSph.png)
+Figura 11: área de seção do canal
+
+O diâmetro hidráulico é dado pela relação entre a área molhada e o perímetro molhado, como mostrado abaixo:
+
+![](https://imgur.com/GQNiCyn.png)
+
+Considerando a profundidade do canal “h” igual a 1,5 metros temos que o diâmetro hidráulico é 3 metros. 
+Se tratando da velocidade da água no canal utilizou-se a fórmula de Chezy abaixo, a dedução se encontra nas notas de aula do curso.
+
+![](https://imgur.com/4IGCH4G.png)
+
+Assim, a vazão no canal é igual a
+
+![](https://imgur.com/i0mh4Ay.png)
+
+### DETERMINAÇÃO DE LINHAS PIEZOMÉTRICA E DE ENERGIA EM DESENHO ESQUEMÁTICO DO SISTEMA HIDROMECÂNICO EQUIVALENTE
+
+### DETERMINAÇÃO DO SEMIPERÍODO DA ONDA DE PRESSÃO PARA DIMENSIONAMENTO DO CONDUTO FECHADO.
+
+### DETERMINAÇÃO DE VALORES DE GOLPE DE ARÍETE POSITIVO MÁXIMO E ACEITÁVEL.
+
+
 ## PROJETO DA TURBINA
 
 ### CONDIÇÕES DE OPERAÇÃO DA TURBINA E ESPECIFICAÇÃO DA POTÊNCIA MECÂNICA DA TURBINA

@@ -209,6 +209,22 @@ Assim, a vazão no canal é igual a
 
 ### DETERMINAÇÃO DO SEMIPERÍODO DA ONDA DE PRESSÃO PARA DIMENSIONAMENTO DO CONDUTO FECHADO.
 
+De acordo com as notas de aula do curso, “semiperíodo é o tempo que a onda de pressão levará para deslocar-se da válvula até a barragem, retornando após a válvula” e é dada pela seguinte fórmula:
+
+![](https://imgur.com/i0mh4Ay.png)
+
+Onde,
+
+![](https://imgur.com/mgyrph9.png)
+
+Tendo: Vs = celeridade da onda de pressão / L= comprimento do canal (100m) / Km=0,5 pro aço / D= diâmetro (3m) / e=espessura do conduto (1mm). Assim,
+
+![](https://imgur.com/ZycQnRK.png)
+
+Logo, o semiperíodo da onda é:
+
+![](https://imgur.com/RRP4Pl6.png)
+
 ### DETERMINAÇÃO DE VALORES DE GOLPE DE ARÍETE POSITIVO MÁXIMO E ACEITÁVEL.
 
 

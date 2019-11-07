@@ -179,7 +179,7 @@ Visto que as vazões da Usina Serra da Mesa variam excessivamente durante os ano
 
 A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto isso, há necessidade de regularização de vazão em períodos de seca. O método utilizado é possível verificar as vazões que serão regularizadas bem como o tempo de duração e verificou-se que o total de vazão regularizada é alto comparado com a vazão de projeto.
 
-##PROJETO DO CONDUTO
+## PROJETO DO CONDUTO
 
 ### FORMA GEOMÉTRICA DE SEÇÃO PARA O CANAL EM QUESTÃO, DIÂMETRO HIDRÁULICO DA SEÇÃO, VELOCIDADE DA ÁGUA NO CANAL, VAZÃO DE ÁGUA NO CANAL
 

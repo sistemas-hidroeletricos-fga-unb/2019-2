@@ -180,6 +180,7 @@ Visto que as vazões da Usina Serra da Mesa variam excessivamente durante os ano
 A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto isso, há necessidade de regularização de vazão em períodos de seca. O método utilizado é possível verificar as vazões que serão regularizadas bem como o tempo de duração e verificou-se que o total de vazão regularizada é alto comparado com a vazão de projeto.
 
 ##PROJETO DO CONDUTO
+
 ### FORMA GEOMÉTRICA DE SEÇÃO PARA O CANAL EM QUESTÃO, DIÂMETRO HIDRÁULICO DA SEÇÃO, VELOCIDADE DA ÁGUA NO CANAL, VAZÃO DE ÁGUA NO CANAL
 
 A forma geométrica do canal é semi circular, como na figura abaixo.
@@ -194,7 +195,11 @@ O diâmetro hidráulico é dado pela relação entre a área molhada e o períme
 Considerando a profundidade do canal “h” igual a 1,5 metros temos que o diâmetro hidráulico é 3 metros. 
 Se tratando da velocidade da água no canal utilizou-se a fórmula de Chezy abaixo, a dedução se encontra nas notas de aula do curso.
 
-![](https://imgur.com/4IGCH4G.png)
+![](https://imgur.com/FcBOkMe.png)
+
+Assim, considerando o canal feito de concreto consideramos n=0,0125. Tendo o ângulo de saída do canal θ=25°, temos S0=0,466 e como mostrado anteriormente, o raio hidráulico é de 1,5m.
+
+![](https://imgur.com/N2eGN6k.png)
 
 Assim, a vazão no canal é igual a
 

@@ -181,7 +181,7 @@ A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto 
 
 ## PROJETO DO CONDUTO
 
-### FORMA GEOMÉTRICA DE SEÇÃO PARA O CANAL EM QUESTÃO, DIÂMETRO HIDRÁULICO DA SEÇÃO, VELOCIDADE DA ÁGUA NO CANAL, VAZÃO DE ÁGUA NO CANAL
+### FORMA GEOMÉTRICA DE SEÇÃO, DIÂMETRO HIDRÁULICO, VELOCIDADE  E VAZÃO DA ÁGUA NO CANAL
 
 A forma geométrica do canal é semi circular, como na figura abaixo.
 

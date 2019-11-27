@@ -227,6 +227,9 @@ Logo, o semiperíodo da onda é:
 
 ### DETERMINAÇÃO DE VALORES DE GOLPE DE ARÍETE POSITIVO MÁXIMO E ACEITÁVEL.
 
+De acordo com as notas de aula o golpe de aríete ocorre quando há uma alteração no fluxo de água, ocsaionando varialções na pressão, essas variações podem provocar ondas de pressão que golpeiam o conduto e outras partes mecânicas, e assim resultado em grandes desastres. Não é possível evitar o golpe de aríete, apenas mitigar, por meio da determinação de valores positivos e aceitáveis.Com isso, de acordo com o conduto escolhido estabeleceu-se os valores de golpe de aríete positivo máximo e aceitável a partir das equações abaixo:
+
+![](https://i.imgur.com/zSkLQRU.png)
 
 ## PROJETO DA TURBINA
 

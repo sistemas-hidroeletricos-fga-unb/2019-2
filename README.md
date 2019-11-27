@@ -231,6 +231,8 @@ De acordo com as notas de aula o golpe de aríete ocorre quando há uma alteraç
 
 ![](https://i.imgur.com/zSkLQRU.png)
 
+Sendo o valor do golpe de aríete positivo máximo 25 metros e o valor aceitável 14,09 metros. 
+
 ## PROJETO DA TURBINA
 
 ### CONDIÇÕES DE OPERAÇÃO DA TURBINA E ESPECIFICAÇÃO DA POTÊNCIA MECÂNICA DA TURBINA

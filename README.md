@@ -218,10 +218,17 @@ Como o canal encontra-se na mesma altura, podemos obter a simplificação:
 
 ![](https://i.imgur.com/aA4paYY.png)
 
-Desta forma, o termo de pressão contribuirá para a linha piezométrica, enquanto o termo de velocidade contribuirá para a linha de energia, de forma que a pressão ao longo da tubulação diminui, devido aos efeitos de perdas de carga no escoamento.
+Desta forma, o termo de pressão contribuirá para a linha piezométrica, enquanto o termo de velocidade contribuirá para a linha de energia, de forma que a pressão ao longo da tubulação diminui, devido aos efeitos de perdas de carga no escoamento. Que pode ser calculada de acordo com a equação abaixo:
 
+![](https://i.imgur.com/1WIcvVb.png)
 
+Para determinar a perda de carga de uma tubulação, é necessário conferir seu fator de atrito, que pode ser obtido através do Diagrama de Moody, para tanto será utilizado o valor fator de rugosidade do aço galvanizado como sendo 0,0002 m, sendo que o diâmetro da tubulação é 3 m, então a razão a ser observada no Diagrama é 0,00002, aproximadamente, enquanto Re é aproximadamente 200000.
 
+![](https://i.imgur.com/2SNsD9n.png)
+
+Figura 12: Diagrama de Moody
+
+Como pode ser observado pelo Diagrama de Moody, o fator de atrito para esta tubulação será aproximadamente 0,016.
 ### DETERMINAÇÃO DO SEMIPERÍODO DA ONDA DE PRESSÃO PARA DIMENSIONAMENTO DO CONDUTO FECHADO.
 
 De acordo com as notas de aula do curso, “semiperíodo é o tempo que a onda de pressão levará para deslocar-se da válvula até a barragem, retornando após a válvula” e é dada pela seguinte fórmula:

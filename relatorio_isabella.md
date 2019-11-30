@@ -30,6 +30,6 @@ Figura 4: Características da turbina 02
 
 Figura 5: Dados de saída do controlador de uma das turbinas
 
-#Objetivos da Visita
+A usina do lago Paranoá opera com reservatório com 38m² de área de captação, sendo que seu reservatório só pode abaixar 1 m de seu nível, operando entre  1000,8m e 999,8m. Por isso, além da garantia física, devem ser observados os níveis da água, principalmente porque o Lago Paranoá passou a ser utilizado também para o abastecimento humano na cidade.
 
-A visita técnica tinha por objetivo promover o conhecimento dos estudantes acerca do funcionamento e operação de uma usina.
+A visita técnica tinha por objetivo promover o conhecimento dos estudantes acerca do funcionamento e operação de uma usina. Sendo possível perceber que, muito além da geração e entrega de potência, na operação da usina estão envolvidos aspectos como o cumprimento da operação determinada pelo ONS, bem como a importância da observação dos níveis do reservatório, sendo proibido o despacho de energia quando estiver abaixo do nível mínimo, e sendo obrigatório verter água quando o nível superar o máximo.

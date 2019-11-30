@@ -5,7 +5,7 @@ Este relatório refere-se a uma visita técnica realizado à Pequena Central Hid
 ## Visita Técnica
 A visita técnica a qual este relatório se refere foi realizada no dia 24 de abril de 2019, às 9h, no escopo da disciplina de Máquinas de Fluido, sendo o professor Jhon Nero o responsável.
 
-![](https://photos.app.goo.gl/RCDnhad2RCX2SRUe9)
+![](blob:https://web.whatsapp.com/16806318-514c-40a5-b281-3b96791be1b4)
 
 Figura 1: Foto com grupo da visita ténica, professor e engenheiro responsável
 

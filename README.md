@@ -229,6 +229,17 @@ Para determinar a perda de carga de uma tubulação, é necessário conferir seu
 Figura 12: Diagrama de Moody
 
 Como pode ser observado pelo Diagrama de Moody, o fator de atrito para esta tubulação será aproximadamente 0,016.
+
+Então a perda de carga ao longo da tubulação será dada por:
+
+![](https://i.imgur.com/V8ZygnW.png)
+
+Desta forma, as linhas piezométrica e de energia ficarão da seguinte forma:
+
+![](https://i.imgur.com/YVtcl1v.png)
+
+Tal que a distância entre as linhas é igual a perda de carga total ao longo da tubulação.
+
 ### DETERMINAÇÃO DO SEMIPERÍODO DA ONDA DE PRESSÃO PARA DIMENSIONAMENTO DO CONDUTO FECHADO.
 
 De acordo com as notas de aula do curso, “semiperíodo é o tempo que a onda de pressão levará para deslocar-se da válvula até a barragem, retornando após a válvula” e é dada pela seguinte fórmula:

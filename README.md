@@ -186,26 +186,41 @@ A vazão de projeto é de 400,17 m³/s, 4 vezes maior que a vazão firme, visto 
 A forma geométrica do canal é semi circular, como na figura abaixo.
 
 ![](https://imgur.com/BKguSph.png)
+
 Figura 11: área de seção do canal
 
 O diâmetro hidráulico é dado pela relação entre a área molhada e o perímetro molhado, como mostrado abaixo:
 
-![](https://imgur.com/GQNiCyn.png)
+![](https://i.imgur.com/jGrvcjS.png)
 
-Considerando a profundidade do canal “h” igual a 1,5 metros temos que o diâmetro hidráulico é 3 metros. 
+Considerando a profundidade do canal “h” igual a 1,5 metros temos:
+
+![](https://i.imgur.com/KYsNMnS.png)
+
 Se tratando da velocidade da água no canal utilizou-se a fórmula de Chezy abaixo, a dedução se encontra nas notas de aula do curso.
 
-![](https://imgur.com/FcBOkMe.png)
+![](https://i.imgur.com/bkbiUSn.png)
 
 Assim, considerando o canal feito de concreto consideramos n=0,0125. Tendo o ângulo de saída do canal θ=25°, temos S0=0,466 e como mostrado anteriormente, o raio hidráulico é de 1,5m.
 
-![](https://imgur.com/N2eGN6k.png)
+![](https://i.imgur.com/jpid9Hp.png)
 
 Assim, a vazão no canal é igual a
 
-![](https://imgur.com/i0mh4Ay.png)
+![](https://i.imgur.com/PJFz0VR.png)
 
 ### DETERMINAÇÃO DE LINHAS PIEZOMÉTRICA E DE ENERGIA EM DESENHO ESQUEMÁTICO DO SISTEMA HIDROMECÂNICO EQUIVALENTE
+Para obter a linha piezométrica da tubulação utiliza-se a equação de Bernoulli:
+
+![](https://i.imgur.com/swekOZd.png)
+
+Como o canal encontra-se na mesma altura, podemos obter a simplificação:
+
+![](https://i.imgur.com/aA4paYY.png)
+
+Desta forma, o termo de pressão contribuirá para a linha piezométrica, enquanto o termo de velocidade contribuirá para a linha de energia, de forma que a pressão ao longo da tubulação diminui, devido aos efeitos de perdas de carga no escoamento.
+
+
 
 ### DETERMINAÇÃO DO SEMIPERÍODO DA ONDA DE PRESSÃO PARA DIMENSIONAMENTO DO CONDUTO FECHADO.
 
